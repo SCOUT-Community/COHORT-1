@@ -1,7 +1,7 @@
 
 # SCOUT Git & GitHub Class
 
-Welcome to the **SCOUT Git & GitHub Class Repository**! 
+Welcome to the **SCOUT Git & GitHub Class**.
 
 This repository contains the learning materials, practical assignments, cheat sheets, and resources for the SCOUT Git & GitHub sessions.
 
