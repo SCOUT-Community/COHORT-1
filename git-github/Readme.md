@@ -39,14 +39,14 @@ As part of the practical component of this class, students will create a simple 
 
 Your portfolio can include:
 
-- 👋Introduction
-- 🧑🏽‍💻 About Me
+- Introduction
+- About Me
 -  Skills
-- 📂 Projects
-- 🎓 Education
-- 📜 Certifications
-- 📫 Contact Information
-- 🔗 LinkedIn and GitHub links
+- Projects
+- Education
+- Certifications
+- Contact Information
+- LinkedIn and GitHub links
 
 By the end of the class, you should have a **live portfolio page** that you can share with:
 
